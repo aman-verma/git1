@@ -173,7 +173,8 @@ namespace ConsoleApplication1
                     foreach (DataRow dr in MinuteDataTable.Rows)
                     {
                         //string name = row["name"].ToString();
-                    
+
+                    int a =b;
                     }
                     //SqlCommand updatecommandfortwap = new SqlCommand("UPDATE TWAP" + dt.ToString("MMyyyy") + " Set Price WHERE CurrencyPair= '" + key + "' AND DatetimeStamp = '" + dt.ToString("MMM-yyyy") + "'", connection);
                     //updatecommandfortwap.ExecuteNonQuery();
